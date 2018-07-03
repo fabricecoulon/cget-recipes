@@ -1,0 +1,1 @@
+facebook/folly@master -DCMAKE_CXX_FLAGS="-Wno-maybe-uninitialized"
